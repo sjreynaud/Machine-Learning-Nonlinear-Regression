@@ -149,10 +149,6 @@ Two nonlinear machine learning models were successfully submitted to the Kaggle 
 <img width="587" height="156" alt="image" src="https://github.com/user-attachments/assets/2b59bc55-84e2-41a5-8a00-c6399fd94b2e" />
 
 
-Model	                    Validation RMSLE	Public Score	Private Score 
-Random Forest Regression	0.15395	0.15643	0.15754
-Gradient Boosting Regression	0.14936	0.14964	0.14911
-
 **🏆 Best Performing Model: Gradient Boosting Regression**
 
 Technologies Used
