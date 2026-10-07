@@ -146,9 +146,6 @@ RMSLE = 0.14936
 
 Two nonlinear machine learning models were successfully submitted to the Kaggle competition. The Gradient Boosting Regression model produced the strongest leaderboard performance, achieving a Public Score of 0.14964 and a Private Score of 0.14911. The Random Forest Regression model achieved a Public Score of 0.15643 and a Private Score of 0.15754. These results demonstrate that Gradient Boosting captured the underlying nonlinear relationships more effectively and provided the highest level of predictive accuracy among the evaluated models.
 
-Model	Validation RMSLE	Public Score	Private Score
-Random Forest Regression	0.15395	0.15643	0.15754
-Gradient Boosting Regression	0.14936	0.14964	0.14911
 <img width="587" height="156" alt="image" src="https://github.com/user-attachments/assets/2b59bc55-84e2-41a5-8a00-c6399fd94b2e" />
 
 
